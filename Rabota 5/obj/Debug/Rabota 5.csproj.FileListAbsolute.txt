@@ -1,0 +1,15 @@
+C:\Users\semac\source\repos\Rabota 5\Rabota 5\bin\Debug\Rabota 5.exe.config
+C:\Users\semac\source\repos\Rabota 5\Rabota 5\bin\Debug\Rabota 5.exe
+C:\Users\semac\source\repos\Rabota 5\Rabota 5\bin\Debug\Rabota 5.pdb
+C:\Users\semac\source\repos\Rabota 5\Rabota 5\obj\Debug\Rabota 5.csprojAssemblyReference.cache
+C:\Users\semac\source\repos\Rabota 5\Rabota 5\obj\Debug\MainWindow.g.cs
+C:\Users\semac\source\repos\Rabota 5\Rabota 5\obj\Debug\App.g.cs
+C:\Users\semac\source\repos\Rabota 5\Rabota 5\obj\Debug\Rabota 5_MarkupCompile.cache
+C:\Users\semac\source\repos\Rabota 5\Rabota 5\obj\Debug\Rabota 5_MarkupCompile.lref
+C:\Users\semac\source\repos\Rabota 5\Rabota 5\obj\Debug\MainWindow.baml
+C:\Users\semac\source\repos\Rabota 5\Rabota 5\obj\Debug\Rabota 5.g.resources
+C:\Users\semac\source\repos\Rabota 5\Rabota 5\obj\Debug\Rabota_5.Properties.Resources.resources
+C:\Users\semac\source\repos\Rabota 5\Rabota 5\obj\Debug\Rabota 5.csproj.GenerateResource.cache
+C:\Users\semac\source\repos\Rabota 5\Rabota 5\obj\Debug\Rabota 5.csproj.CoreCompileInputs.cache
+C:\Users\semac\source\repos\Rabota 5\Rabota 5\obj\Debug\Rabota 5.exe
+C:\Users\semac\source\repos\Rabota 5\Rabota 5\obj\Debug\Rabota 5.pdb
